@@ -1,0 +1,1 @@
+{"lastUpdate": "14-May-2020 19:38", "accuracy": "0.859", "loss": "0.392", "val_accuracy": "0.636", "val_loss": "0.518"}
